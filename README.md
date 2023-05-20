@@ -11,7 +11,7 @@ We needed to simulate the elastic collisions of n particles in 1-dimension with 
 The data structure of heap was implemented for this purpose.
 
 ## Assignment 3
-We needed to implement the search nearby feature of a map wherein we need some desirable points from a certain point P whose both x and y co-ordinates are within a range of d from P.
+We needed to implement the search nearby feature of a map wherein we need some desirable points from a certain point P whose both x and y co-ordinates are within a range of d from the x and y co-ordinates of P.
 The data structure of segment tree was implemented for this purpose.
 
 ## Assignment 4
