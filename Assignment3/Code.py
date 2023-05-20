@@ -145,23 +145,3 @@ class PointDatabase:
 
     def prints(self):
         print(len(self.st))
-                
-# l=[]
-# for i in range(1000):
-#     l.append((i,i+1))
-
-# s=time.time()
-# pointDbObject = PointDatabase(l)
-# t=pointDbObject.searchNearby((5,16),100)
-# print(t)
-# e=time.time()
-# print(e-s)
-
-# pointDbObject = PointDatabase([(-8,2),(-7,2),(-6,5),(1,0),(1,1),(0,-1),(0,5),(-6,-1),(0,4),(0,1),(-1,1),(-3,0),(-4,3),(-3,4),(-2,4)])
-# t=pointDbObject.searchNearby((-3,2),10)
-# print(t)
-
-# pointDbObject = PointDatabase([(1,6), (2,4), (3,7), (4,9), (5,1), (6,3), (7,8), (8,10),(9,2), (10,5)])
-# print(pointDbObject.searchNearby((5,5),1))
-# print(pointDbObject.searchNearby((4,8),2))
-# print(pointDbObject.searchNearby((10,2),1.5))
