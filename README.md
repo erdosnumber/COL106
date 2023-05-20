@@ -3,7 +3,7 @@
 These are the assignments that I had done in the course COL106 in my Semester 3 at IIT Delhi.
 
 ## Assignment 1
-We needed to evaluate an arithmetic expression (a string) consisting of the symbols 0,1,2,3,4,5,6,7,8,9,(,),+,\*,/ and -
+We needed to evaluate an arithmetic expression (a string) consisting of the symbols X,Y,Z,(,),+, and - where X,Y and Z denoted a unit step along the X,Y and Z axes respectively.
 The data structure of stack was implemented for this purpose.
 
 ## Assignment 2
