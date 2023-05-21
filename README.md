@@ -7,7 +7,7 @@ We needed to evaluate an arithmetic expression (a string) consisting of the symb
 The data structure of stack was implemented for this purpose.
 
 ## Assignment 2
-We needed to simulate the elastic collisions of n particles in 1-dimension with given initial velocities and positions.
+We needed to simulate the elastic collisions of n particles in 1-dimension with given their masses and initial velocities and positions.
 The data structure of heap was implemented for this purpose.
 
 ## Assignment 3
